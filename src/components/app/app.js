@@ -53,7 +53,7 @@ export default class App extends Component {
       return {
         data: newArr
       }
-    })
+    });
 
   }
   render() {
